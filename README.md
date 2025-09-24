@@ -6,15 +6,15 @@
 
 ---
 
-## 🔧 Skills & Tools  
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
+## 🔧 Skills & Tools
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 
 ---
 
