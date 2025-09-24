@@ -7,20 +7,17 @@
 ---
 
 ## 🔧 Skills & Tools
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white)  
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?logo=daisyui&logoColor=white)  
-![Highcharts](https://img.shields.io/badge/-Highcharts-1662B7?logo=highcharts&logoColor=white) 
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+
 ---
+
 
 ## 📌 Featured Projects  
 
