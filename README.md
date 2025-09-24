@@ -34,7 +34,7 @@ Dashboard to track stock availability & distribution with filters and charts.
 
 ### 🌐 [Portfolio Website](https://github.com/username/portfolio)
 Personal portfolio website built with Next.js and Tailwind CSS.  
-🔗 [Live Demo](https://portfolio-demo-link.com)
+🔗 [Live Demo]([https://portfolio-demo-link.com](https://portfolio-nextjs-one-zeta.vercel.app/)
 
 ---
 
