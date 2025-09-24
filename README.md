@@ -47,4 +47,4 @@ Personal portfolio website built with Next.js and Tailwind CSS to showcase my sk
 ## 📫 Contact Me  
 📧 Email: **hasemspi@gmail.com**  
 💼 LinkedIn: [Profile Link](https://linkedin.com/)  
-🌐 Portfolio: [TrustyGen](https://trustygen.com/)  
+🌐 Portfolio: [Portfolio](https://portfolio-nextjs-one-zeta.vercel.app/project)  
