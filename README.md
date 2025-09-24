@@ -20,9 +20,9 @@
 
 ## 📌 Featured Projects
 
-### 🍕 [Pizza Ordering Website](https://github.com/username/pizza-ordering)
+### 🍕 [trustygen Business Website](https://github.com/username/trustygen)
 Online pizza ordering system with delivery & pickup options.  
-🔗 [Live Demo](https://pizza-demo-link.com)
+🔗 [Live Demo](https://trustygen.com/)
 
 ---
 
