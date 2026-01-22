@@ -33,6 +33,21 @@ A professional business website built with a modern tech stack to represent the 
 
 ---
 
+### 🖼️ Job Image Resize Tool  
+🔗 Live: http://jobimage.trustygen.com/  
+Online image resize tool for **government job and passport-size photos**.  
+✔ One-click resize  
+✔ Preset official dimensions  
+✔ Fast & user-friendly  
+
+---
+
+### 📦 Stock Management System  
+🔗 Live: https://stock.trustygen.com/  
+A scalable stock management system for tracking inventory and generating reports with secure data handling.
+
+---
+
 ### 🌐 [Portfolio Website](https://github.com/hasemspi/portfolio-nextjs)  
 Personal portfolio website built with Next.js and Tailwind CSS to showcase my skills, projects, and experience. It features a clean UI, responsive design, and optimized performance for all devices.  
 🔗 [Live Demo](https://portfolio-nextjs-one-zeta.vercel.app/)  
