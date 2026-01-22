@@ -33,13 +33,14 @@ A professional business website built with a modern tech stack to represent the 
 
 ---
 
-### 🖼️ Job Image Resize Tool  
-🔗 Live: http://jobimage.trustygen.com/  
+### 🖼️ Job Image Resize Tool   
+
 Online image resize tool for **government job and passport-size photos**.  
 ✔ One-click resize  
 ✔ Preset official dimensions  
 ✔ Fast & user-friendly  
 
+🔗 [Live Demo](https://jobimage.trustygen.com/)  
 ---
 
 # StockTrustyGen – AI Stock Image Metadata Generator
@@ -48,8 +49,7 @@ Online image resize tool for **government job and passport-size photos**.
 
 StockTrustyGen is an AI-powered tool that automatically generates **SEO-optimized titles, descriptions, and keywords** from images. It helps stock photographers and creative professionals save time and improve image discoverability on stock platforms.
 
-🔗 Live Demo: https://stock.trustygen.com/
-
+🔗 [Live Demo](https://stock.trustygen.com/)  
 ---
 
 ## ✨ Features
