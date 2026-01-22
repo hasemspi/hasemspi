@@ -42,10 +42,68 @@ Online image resize tool for **government job and passport-size photos**.
 
 ---
 
-### 📦 Stock Management System  
-🔗 Live: https://stock.trustygen.com/  
-A scalable stock management system for tracking inventory and generating reports with secure data handling.
+# StockTrustyGen – AI Stock Image Metadata Generator
 
+🚀 **AI-powered stock image metadata generator for photographers, designers, and agencies**
+
+StockTrustyGen is an AI-powered tool that automatically generates **SEO-optimized titles, descriptions, and keywords** from images. It helps stock photographers and creative professionals save time and improve image discoverability on stock platforms.
+
+🔗 Live Demo: https://stock.trustygen.com/
+
+---
+
+## ✨ Features
+- 📸 Image-based AI analysis
+- 🧠 Auto-generated image titles
+- 📝 SEO-friendly descriptions
+- 🔑 High-quality stock keywords
+- ⚡ Fast & easy-to-use interface
+- 📈 Optimized for stock marketplaces
+
+---
+
+## 🧠 How It Works
+1. Upload a stock image  
+2. AI analyzes visual elements, context, and concepts  
+3. Instantly generates:
+   - Title
+   - Description
+   - Keywords  
+
+All outputs are optimized for **SEO and stock agency requirements**.
+
+---
+
+## 👥 Who Is It For?
+- Stock Photographers  
+- Graphic Designers  
+- Digital Artists  
+- Creative Agencies  
+- Content Creators  
+
+Whether you're submitting images to stock platforms or managing large image libraries, StockTrustyGen makes metadata creation effortless.
+
+---
+
+## 🤖 AI Technology
+StockTrustyGen leverages **advanced AI models (e.g., Gemini 2.5)** to understand objects, scenes, emotions, and usage context within images. This allows it to generate **highly relevant and accurate metadata** that agencies love.
+
+---
+
+## 🎯 Why StockTrustyGen?
+- Save hours of manual tagging
+- Increase image visibility
+- Improve search ranking
+- Boost download & sales potential
+- Consistent, high-quality metadata
+
+---
+
+## 🛠️ Tech Stack
+- Frontend: Next.js / React
+- Backend: Node.js API
+- AI: Vision & Language Models
+- SEO: Optimized metadata generation
 ---
 
 ### 🌐 [Portfolio Website](https://github.com/hasemspi/portfolio-nextjs)  
